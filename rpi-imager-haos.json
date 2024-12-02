@@ -3,13 +3,13 @@
     {
       "name": "Home Assistant OS 13.0 (RPi 5)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/tiyicn/operating-system/releases/download/13.0/haos_rpi5-64-13.0.img.xz",
+      "url": "https://github.com/home-assistant/operating-system/releases/download/13.0/haos_rpi5-64-13.0.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
-      "extract_sha256": "3c64d39375a39d56a5bf0e793c704fbcdf53b497f85c898e9e505bea8be60678",
-      "release_date": "2024-12-01",
-      "image_download_size": 302589168,
-      "image_download_sha256": "19e88d1d7795d57bb479a2f8a1cc693258987c04b4a58df56d9c0803750be06b",
+      "extract_sha256": "9c1f1cd702d12473368d23642be045ce622c0c981382972c5cc7a4f598887a48",
+      "release_date": "2024-08-13",
+      "image_download_size": 301886564,
+      "image_download_sha256": "16d1d9392426cf5c25db40de797cd520aca17a13d6cfebde04b01115576f862c",
       "website": "https://www.home-assistant.io",
       "devices": [
         "pi5-64bit"
@@ -18,13 +18,13 @@
     {
       "name": "Home Assistant OS 13.0 (RPi 4/400)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/tiyicn/operating-system/releases/download/13.0/haos_rpi4-64-13.0.img.xz",
+      "url": "https://github.com/home-assistant/operating-system/releases/download/13.0/haos_rpi4-64-13.0.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
-      "extract_sha256": "fe4d8d649addab9608e053f9edd61073cc646e55aca87f2b045bfba4e6f23709",
-      "release_date": "2024-12-01",
-      "image_download_size": 295243396,
-      "image_download_sha256": "ca4061bd2e6395297b2e8e0afb5d29358887b5a50f4c7439e2c6de0ae4beb578",
+      "extract_sha256": "4058c1333ff275ec356dce9149928207fe5acf62b558ec82ca0766e8d0eac9d1",
+      "release_date": "2024-08-13",
+      "image_download_size": 294833856,
+      "image_download_sha256": "163406498c1f298d96eac93e0ce613f233cf94019b2a353d7ba10175bb8ffcb7",
       "website": "https://www.home-assistant.io",
       "devices": [
         "pi4-64bit"
@@ -33,13 +33,13 @@
     {
       "name": "Home Assistant OS 13.0 (RPi 3)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/tiyicn/operating-system/releases/download/13.0/haos_rpi3-64-13.0.img.xz",
+      "url": "https://github.com/home-assistant/operating-system/releases/download/13.0/haos_rpi3-64-13.0.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
-      "extract_sha256": "b1763441d31958214946e5e552105243267a79d21c85f8476519cb9b589284eb",
-      "release_date": "2024-12-01",
-      "image_download_size": 291296700,
-      "image_download_sha256": "19afad2e6db6d36c9780b436fd6d079ed47c53e41aaaaed5dfe9ac5b7fc55226",
+      "extract_sha256": "30f8077769d8a81badc82ff744a558fb7a77b65473950f2aa24327d5de53f504",
+      "release_date": "2024-08-13",
+      "image_download_size": 291117624,
+      "image_download_sha256": "e51119401614a2dbc3c030f958d5f92eb7ee0105ffb8fc06383cacb476b16dd0",
       "website": "https://www.home-assistant.io",
       "devices": [
         "pi3-64bit"
